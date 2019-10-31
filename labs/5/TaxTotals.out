@@ -1,0 +1,49 @@
+Username:  rollers
+Date:      Tue Feb 13 14:42:26 EST 2018
+ 
+*** Running make ***
+javac *.java
+--- Running 3 items ---
+
+This program computes total costs interactively.
+Written by Seth Roller.
+
+To begin, enter the number of items: 
+
+Enter the item name, cost and tax rate for 1: 
+Kleenex cost with tax is $3.18
+
+Enter the item name, cost and tax rate for 2: 
+Paper cost with tax is $5.50
+
+Enter the item name, cost and tax rate for 3: 
+Chalk cost with tax is $21.70
+
+The total cost of your 3 items is $30.38
+
+--- Running 5 items ---
+
+This program computes total costs interactively.
+Written by Seth Roller.
+
+To begin, enter the number of items: 
+
+Enter the item name, cost and tax rate for 1: 
+Car cost with tax is $46390.00
+
+Enter the item name, cost and tax rate for 2: 
+Boat cost with tax is $143990.00
+
+Enter the item name, cost and tax rate for 3: 
+House cost with tax is $230390.00
+
+Enter the item name, cost and tax rate for 4: 
+Computer cost with tax is $2890.00
+
+Enter the item name, cost and tax rate for 5: 
+Stereo cost with tax is $585.00
+
+The total cost of your 5 items is $424245.00
+
+*** Running make clean ***
+rm -f *.class *~ *#

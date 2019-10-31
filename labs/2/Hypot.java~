@@ -1,0 +1,10 @@
+//Hypot.java computes the hypotenuse length of a right triangle,
+//  given the lengths of its two legs.
+//
+// Author: Seth Roller
+// Date: 1/23/18
+// For: 
+//
+// Specification:
+//   input(keyboard):
+//   output(screen):
