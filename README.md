@@ -1,2 +1,2 @@
-# cs126
+# cs126 labs
 computer science II
